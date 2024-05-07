@@ -1,1 +1,0 @@
-# nadugyam.io
