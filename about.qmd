@@ -1,7 +1,0 @@
----
-title: "About"
-format: 
-   html: default
----
-
-In this website I host my articles on
